@@ -28,21 +28,7 @@
                                     <td></td>
                                     <td></td>
                                 </tr>
-                                <tr>
-                                    <td>{{$listitem->name}}</td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td>{{$listitem->website}}</td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td>{{$listitem->bio}}</td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
+                                
                             @endforeach
                         </table>
                     @endif
